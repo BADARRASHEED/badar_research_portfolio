@@ -9,92 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
 
-- **Bachelor of Science in Computer Science**, Gift University, Gujranwala, Pakistan  
-  _CGPA: 3.96 / 4.00_  
-  _Expected Graduation: 2025_
+Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * GitHub University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 
----
+* Fall 2015: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
-# Work Experience & Research Projects
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-- **Backend for Multimodal PTSD Detection System** (Oct 2024 – Jul 2025)  
-  _Machine Learning Research & Backend Development Project_
-  - Technologies: FastAPI, PyTorch, Hugging Face Transformers
-  - Engineered a production-grade REST API to serve multimodal deep learning models (text, audio, video) for telehealth use cases
-  - Integrated NLP and computer vision pipelines into a unified, scalable backend architecture
-  - Optimized inference pipelines to significantly reduce latency, enabling near real-time clinical decision support
-
----
-
-# Skills
-
-- **Programming Languages**
-  - Python, SQL
-
-- **Machine Learning & AI**
-  - PyTorch
-  - scikit-learn
-  - TensorFlow
-  - Hugging Face Transformers
-  - Deep Learning, NLP, Computer Vision
-
-- **Data Science & Visualization**
-  - NumPy
-  - Pandas
-  - Matplotlib
-  - Seaborn
-  - Plotly
-
-- **Backend & Systems**
-  - FastAPI
-  - RESTful API Development
-  - Model Deployment
-  - Unit Testing
-
-- **Databases**
-  - PostgreSQL
-  - MySQL
-  - SQLite
-
-- **Tools & Platforms**
-  - Git
-  - Docker
-  - Jupyter Notebook
-  - Google Colab
-  - Linux
-  - LaTeX
-
----
-
-# Publications
-
-<ul>
-  <li>Manuscripts in preparation in the areas of healthcare AI, multimodal machine learning, and applied NLP.</li>
-</ul>
-
----
-
-# Talks
-
-<ul>
-  <li>To be added.</li>
-</ul>
-
----
-
-# Teaching
-
-<ul>
-  <li>Informal mentoring and guidance in Python programming, machine learning fundamentals, and data science workflows.</li>
-</ul>
-
----
-
-# Service and Leadership
-
-- Graduated in the **top 1%** of class at Gift University (CGPA 3.96/4.00)
-- Designed and deployed ML-powered APIs enabling real-world AI integration
-- Contributed to applied research in healthcare AI and natural language processing
-- Actively involved in open-source development and collaborative research learning
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
