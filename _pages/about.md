@@ -2,7 +2,7 @@
 permalink: /
 title: "Badar Rasheed Butt"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
@@ -19,10 +19,10 @@ I specialize in applying **deep learning**, **computer vision**, and **immersive
 
 ## Current Research Interests
 
-- **Medical Imaging & Computational Health:** applying deep learning and computer vision to detect, segment, and analyze biomedical images, including histopathology and MRI data
-- **Immersive Technologies for Education and Training:** using VR/AR and human-computer interaction techniques to create interactive, high-fidelity learning environments
-- **Machine Learning for Decision Support:** designing AI-driven models to assist in clinical, educational, and research decision-making
-- **Multimodal Data Integration:** combining imaging, interaction, and behavioral data to develop predictive and interpretable models for healthcare and educational applications
+- **Medical Imaging & Computational Health:** applying deep learning and computer vision to detect, segment, and analyze biomedical images, including histopathology and MRI data  
+- **Immersive Technologies for Education and Training:** using VR/AR and human-computer interaction techniques to create interactive, high-fidelity learning environments  
+- **Machine Learning for Decision Support:** designing AI-driven models to assist in clinical, educational, and research decision-making  
+- **Multimodal Data Integration:** combining imaging, interaction, and behavioral data to develop predictive and interpretable models for healthcare and educational applications  
 
 ---
 
