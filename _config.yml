@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-site_theme: "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme: "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title: "Badar Rasheed Butt"
 title_separator: "-"
 name: &name "Badar Rasheed Butt"
@@ -22,7 +22,7 @@ repository: "BADARRASHEED/badar_research_portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "badar.jpg"
   name: "Badar Rasheed Butt"
   pronouns: # example: "she/her"
   bio: "Computer Scientist focusing on AI, machine learning, and research-grade computational systems."

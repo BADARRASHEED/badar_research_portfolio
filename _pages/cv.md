@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)]({{ site.baseurl }}/files/cv.pdf){: .btn .btn--primary }
+
 # Education
 
 - **Bachelor of Science in Computer Science**, Gift University, Gujranwala, Pakistan  
