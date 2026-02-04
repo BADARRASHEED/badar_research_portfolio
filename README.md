@@ -1,57 +1,33 @@
-# Badar Rasheed Butt - Research Portfolio
+# Badar Rasheed Butt
 
-This repository contains the source code for my personal academic and professional portfolio website.
+I am **Badar Rasheed Butt**, a Computer Scientist and researcher focused on building meaningful AI systems that can create real impact in healthcare and society.
 
-The site highlights my work in:
-- Artificial Intelligence and Machine Learning
-- AI for Healthcare
-- Medical Imaging Analysis
-- Backend Engineering for Research-Grade Systems
+My work is centered around artificial intelligence, machine learning, and medical imaging, with a strong interest in solving complex problems that sit at the intersection of research and practical use.
 
-## About This Portfolio
+I am deeply motivated by curiosity, discipline, and long-term contribution. I believe research should not only be technically strong, but also useful, reliable, and capable of improving lives.
 
-I built this portfolio to present my research direction, technical projects, publications, and professional growth in one place.
+## My Mission
 
-My primary focus is developing practical AI systems that can support real-world healthcare and research workflows, especially where reliability, interpretability, and performance matter.
+My mission is to push the boundaries of AI research and develop systems that support better decision-making in healthcare, especially in areas where precision and trust are critical.
 
-## Core Focus Areas
+I want my work to contribute to a future where intelligent systems help doctors, researchers, and institutions deliver better outcomes for people.
 
-- **Medical Imaging and Computational Health**
-  - Deep learning for image-based disease analysis
-  - Computer vision pipelines for biomedical and clinical imaging tasks
-  - AI-assisted decision support for healthcare use cases
+## Long-Term Vision
 
-- **AI in Healthcare**
-  - Multimodal learning across text, image, and clinical signals
-  - NLP-driven systems for medical and research applications
-  - End-to-end ML workflows from experimentation to deployment
+I am building my career with a bold long-term goal:
 
-- **Backend and Applied AI Engineering**
-  - FastAPI-based production APIs
-  - Model serving and inference optimization
-  - Scalable architecture for research-to-production transitions
+**To win the Turing Award through groundbreaking contributions to AI and computational science.**
 
-## Technical Stack
+This goal represents more than personal success. For me, it is a commitment to:
 
-- **Languages:** Python, SQL
-- **ML/AI:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers
-- **Data:** NumPy, Pandas, Matplotlib, Seaborn, Plotly
-- **Backend:** FastAPI, REST APIs, model deployment workflows
-- **Tools:** Git, Docker, Linux, Jupyter, LaTeX
+- produce original and high-impact research,
+- solve difficult scientific and engineering problems,
+- and contribute work that advances the global research community.
 
-## Website Structure
+## What This Portfolio Represents
 
-- `_pages/` - Main pages (About, CV, Portfolio, etc.)
-- `_publications/` - Publication entries
-- `_portfolio/` - Project highlights
-- `_posts/` - Blog-style posts and updates
-- `files/` - Downloadable files such as CV and PDFs
-
-## Goal
-
-The goal of this portfolio is to communicate my journey as a researcher and engineer working at the intersection of AI, medical imaging, and healthcare innovation.
-
-I am especially interested in building trustworthy AI systems that create measurable impact in clinical and research settings.
+This portfolio is a living record of my journey as a researcher, builder, and learner.  
+It reflects my growth, my ambitions, and my commitment to excellence in AI.
 
 ## Author
 
