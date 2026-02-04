@@ -26,7 +26,7 @@ author:
   name: "Badar Rasheed Butt"
   pronouns: # example: "she/her"
   bio: "Computer Scientist focusing on AI, machine learning, and research-grade computational systems."
-  location: "Earth"
+  location: "Islamabad, Pakistan"
   employer: "Pieas University"
   uri: # URL
   email: "badarrasheedbutt@gmail.com"
@@ -40,7 +40,7 @@ author:
   orcid: "https://orcid.org/yourorcidurl"
   semantic: # URL
   ssrn: # URL
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed:
   researchgate: # URL
   scopus: # URL
   zotero: # URL
@@ -55,7 +55,7 @@ author:
 
   # Social media
   artstation: # Username
-  bluesky: "bsky.app" # Replace this with you Bluesky username
+  bluesky:
   facebook: # Username
   flickr: # Username
   foursquare: # Username

@@ -1,16 +1,26 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Badar Rasheed Butt - Research Portfolio
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+Hi, I am **Badar Rasheed Butt**.
 
-# Getting Started
+I am a Computer Scientist focused on:
+- Artificial Intelligence (AI)
+- Machine Learning
+- Research-grade computational systems
+- Backend development for real-world AI applications
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+## What I Do
 
-See more info at https://academicpages.github.io/
+- Build scalable backend systems for AI and multimodal ML projects
+- Work on NLP, computer vision, and deep learning pipelines
+- Design APIs that bring research models into practical use
+- Explore healthcare AI and data-driven problem solving
+
+## Current Focus
+
+- Applied AI research
+- Production-level ML system design
+- Continuous learning and open-source collaboration
+
+## Website
+
+This repository contains my personal academic and professional portfolio website.
