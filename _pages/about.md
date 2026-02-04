@@ -9,25 +9,36 @@ redirect_from:
 
 # About Me
 
-I'm **Badar Rasheed Butt**, passionate about leveraging data science, deep learning, and immersive technologies to advance innovation in **medical imaging**, and **healthcare training**.
+I am **Badar Rasheed Butt**, a Computer Scientist and Python specialist focused on applied AI for healthcare and medical imaging.
 
-My research focuses on the intersection of **computational methods**, **human-centered computing**, and **healthcare innovation**, where I design intelligent, data-driven systems that improve decision-making, enhance learning, and support clinical and educational outcomes.
-
-I specialize in applying **deep learning**, **computer vision**, and **immersive technologies (VR/AR)** to tackle complex problems in **medical imaging analysis** and **STEM education**. My portfolio includes projects ranging from **disease detection and tissue analysis using deep learning** to **virtual reality applications** that allow users to interact with lab or clinical environments through natural hand gestures, creating intuitive and immersive experiences.
+My work combines **machine learning research** with **production-focused engineering** to build systems that are practical, scalable, and useful in real environments.
 
 ---
 
-## Current Research Interests
+## Research and Engineering Focus
 
-- **Medical Imaging & Computational Health:** applying deep learning and computer vision to detect, segment, and analyze biomedical images, including histopathology and MRI data
-- **Immersive Technologies for Education and Training:** using VR/AR and human-computer interaction techniques to create interactive, high-fidelity learning environments
-- **Machine Learning for Decision Support:** designing AI-driven models to assist in clinical, educational, and research decision-making
-- **Multimodal Data Integration:** combining imaging, interaction, and behavioral data to develop predictive and interpretable models for healthcare and educational applications
+- **AI for Healthcare:** building machine learning solutions for healthcare analysis and decision support
+- **Medical Imaging:** applying deep learning and computer vision to biomedical image understanding
+- **Multimodal AI:** combining image, text, and structured data for stronger predictive systems
+- **Backend Systems:** designing FastAPI services and robust pipelines for model deployment
 
 ---
 
-## Beyond Research
+## What I Build
 
-I am committed to **collaboration, interdisciplinary research, and mentorship**. I actively seek opportunities to engage with researchers, educators, and healthcare professionals to co-create impactful solutions. Whether it’s developing intelligent medical imaging tools, immersive educational platforms, or mentoring students in computational research, I strive to contribute to communities that push the boundaries of technology, healthcare, and learning.
+- End-to-end ML workflows from preprocessing to inference
+- Research-grade APIs for serving AI models
+- Low-latency backend systems for real-time and near-real-time use cases
+- Clean, maintainable implementations that support collaboration and growth
+
+---
+
+## Professional Direction
+
+I am especially interested in projects where AI can make measurable impact in:
+- clinical workflows,
+- healthcare analytics,
+- medical imaging interpretation,
+- and evidence-driven decision systems.
 
 ---

@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale: "en-US"
-site_theme: "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme: "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title: "Badar Rasheed Butt"
 title_separator: "-"
 name: &name "Badar Rasheed Butt"
-description: &description "Computer Scientist | AI, Machine Learning, and Research-Grade Systems"
+description: &description "Computer Scientist | Python Specialist | AI for Healthcare and Medical Imaging"
 url: "https://badarrasheed.github.io"
 baseurl: "/badar_research_portfolio"
 repository: "BADARRASHEED/badar_research_portfolio"
@@ -25,9 +25,9 @@ author:
   avatar: "badar.jpg"
   name: "Badar Rasheed Butt"
   pronouns: # example: "she/her"
-  bio: "Computer Scientist focusing on AI, machine learning, and research-grade computational systems."
+  bio: "Computer Scientist focused on AI for healthcare, medical imaging, and research-grade computational systems."
   location: "Islamabad, Pakistan"
-  employer: "Pieas University"
+  employer: "PIEAS University"
   uri: # URL
   email: "badarrasheedbutt@gmail.com"
 
@@ -37,7 +37,7 @@ author:
   googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep: # URL
   impactstory: # URL
-  orcid: "https://orcid.org/yourorcidurl"
+  orcid:
   semantic: # URL
   ssrn: # URL
   pubmed:

@@ -19,84 +19,43 @@ redirect_from:
 
 ---
 
-# Work Experience & Research Projects
+# Work Experience and Research Projects
 
-- **Backend for Multimodal PTSD Detection System** (Oct 2024 – Jul 2025)  
-  _Machine Learning Research & Backend Development Project_
+- **Backend for Multimodal PTSD Detection System** (Oct 2024 - Jul 2025)  
+  _Machine Learning Research and Backend Development Project_
   - Technologies: FastAPI, PyTorch, Hugging Face Transformers
   - Engineered a production-grade REST API to serve multimodal deep learning models (text, audio, video) for telehealth use cases
   - Integrated NLP and computer vision pipelines into a unified, scalable backend architecture
-  - Optimized inference pipelines to significantly reduce latency, enabling near real-time clinical decision support
+  - Optimized inference pipelines to reduce latency for near-real-time clinical decision support
 
 ---
 
 # Skills
 
-- **Programming Languages**
-  - Python, SQL
-
-- **Machine Learning & AI**
-  - PyTorch
-  - scikit-learn
-  - TensorFlow
-  - Hugging Face Transformers
-  - Deep Learning, NLP, Computer Vision
-
-- **Data Science & Visualization**
-  - NumPy
-  - Pandas
-  - Matplotlib
-  - Seaborn
-  - Plotly
-
-- **Backend & Systems**
-  - FastAPI
-  - RESTful API Development
-  - Model Deployment
-  - Unit Testing
-
-- **Databases**
-  - PostgreSQL
-  - MySQL
-  - SQLite
-
-- **Tools & Platforms**
-  - Git
-  - Docker
-  - Jupyter Notebook
-  - Google Colab
-  - Linux
-  - LaTeX
+- **Programming:** Python, SQL
+- **Machine Learning and AI:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, NLP, Computer Vision
+- **Data and Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Plotly
+- **Backend and Systems:** FastAPI, REST API Development, Model Deployment, Unit Testing
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Tools and Platforms:** Git, Docker, Jupyter Notebook, Google Colab, Linux, LaTeX
 
 ---
 
 # Publications
 
-<ul>
-  <li>Manuscripts in preparation in the areas of healthcare AI, multimodal machine learning, and applied NLP.</li>
-</ul>
+- Manuscripts in preparation in healthcare AI, multimodal machine learning, and applied NLP.
 
 ---
 
-# Talks
+# Teaching and Mentoring
 
-<ul>
-  <li>To be added.</li>
-</ul>
-
----
-
-# Teaching
-
-<ul>
-  <li>Informal mentoring and guidance in Python programming, machine learning fundamentals, and data science workflows.</li>
-</ul>
+- Informal mentoring in Python programming, machine learning fundamentals, and data science workflows.
 
 ---
 
 # Service and Leadership
 
 - Graduated in the **top 1%** of class at Gift University (CGPA 3.96/4.00)
-- Designed and deployed ML-powered APIs enabling real-world AI integration
+- Designed and deployed ML-powered APIs for real-world AI integration
 - Contributed to applied research in healthcare AI and natural language processing
-- Actively involved in open-source development and collaborative research learning
+- Active in open-source learning and collaborative research communities
